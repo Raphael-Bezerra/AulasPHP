@@ -1,0 +1,1 @@
+<!-- Para comentar testos e tags dentro de umma página HTML -->
